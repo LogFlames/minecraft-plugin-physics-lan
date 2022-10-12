@@ -1,4 +1,4 @@
-package minecraft_mod;
+package com.physics;
 
 import static org.junit.Assert.assertTrue;
 
